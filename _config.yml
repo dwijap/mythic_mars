@@ -66,8 +66,6 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             >
-  © 2020 The Orbital Index. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -289,8 +287,7 @@ remote_theme: qwtel/hydejack@v8.4.0
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-twitter:
-  username:            orbitalindex
+
 
 # Used for Facebook open graph
 # facebook:
@@ -299,11 +296,7 @@ twitter:
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-  name:                Orbital Index
-  links:
-    - https://twitter.com/orbitalindex
-    - https://facebook.com/orbitalindex
+
 
 
 # Other Plugins
