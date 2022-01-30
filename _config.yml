@@ -24,7 +24,7 @@ title:                 mythic mars
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Curated space news and links. Weekly, brief, and technical.
+  uncover the myths of the red planet
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -54,7 +54,7 @@ menu:
   - title:             About
     url:               /about/
 
-  - title:             Open Source Resources
+  - title:             Open Source 
     url:               https://github.com/orbitalindex/awesome-space
 
 # Add links to the footer.
